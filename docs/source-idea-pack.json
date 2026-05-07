@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\AssetPipeline\\created_idea_001_asset-intake-naming-optimization-audit",
+  "zip": "D:\\AI\\AssetPipeline\\created_idea_001_asset-intake-naming-optimization-audit\\idea_001_asset-intake-naming-optimization-audit.zip",
+  "rank": 30,
+  "domain": "AssetPipeline",
+  "ideaNo": 1,
+  "title": "アセット受け入れ・命名・最適化監査",
+  "overview": "モデル、Import Settings、LOD、Collider、UV、命名規則、フォルダ規約を受け入れ時にまとめて検査する。",
+  "problem": "受け入れ、命名、最適化、インポート設定が別工程になると後工程で差し戻しが起きやすい。",
+  "differentiation": "DCCとゲームエンジンの両方の条件を1つの受け入れチェックにまとめる。"
+}
