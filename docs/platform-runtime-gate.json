@@ -1,0 +1,11 @@
+{
+  "product": "asset-intake-naming-optimization-audit",
+  "title": "アセット受け入れ・命名・最適化監査",
+  "domain": "AssetPipeline",
+  "ideaNo": 1,
+  "platformType": "cli-release-tool",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
